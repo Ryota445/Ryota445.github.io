@@ -1,0 +1,1 @@
+export { FileExcel } from "./FileExcel";

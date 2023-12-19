@@ -1,0 +1,33 @@
+.button-medium {
+  align-items: center;
+  background-color: var(--primary-6);
+  border: 1px solid;
+  border-color: var(--primary-6);
+  border-radius: 2px;
+  box-shadow: var(--drop-shadow-button-primary);
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5px 16px;
+  position: relative;
+}
+
+.button-medium .text-3 {
+  color: var(--character-primaryinverse);
+  font-family: var(--body-regular-font-family);
+  font-size: var(--body-regular-font-size);
+  font-style: var(--body-regular-font-style);
+  font-weight: var(--body-regular-font-weight);
+  letter-spacing: var(--body-regular-letter-spacing);
+  line-height: var(--body-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-medium .icon-wrapper-instance {
+  flex: 0 0 auto !important;
+}

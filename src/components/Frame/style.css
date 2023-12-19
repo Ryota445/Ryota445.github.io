@@ -1,0 +1,235 @@
+.frame {
+  height: 267px;
+  position: relative;
+  width: 1140px;
+}
+
+.frame .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 449px;
+  position: absolute;
+  top: 16px;
+}
+
+.frame .UV {
+  color: #2b3674;
+  font-family: var(--display-text-extra-small-bold-font-family);
+  font-size: var(--display-text-extra-small-bold-font-size);
+  font-style: var(--display-text-extra-small-bold-font-style);
+  font-weight: var(--display-text-extra-small-bold-font-weight);
+  letter-spacing: var(--display-text-extra-small-bold-letter-spacing);
+  line-height: var(--display-text-extra-small-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .number-inven {
+  height: 30px;
+  position: relative;
+  width: 237px;
+}
+
+.frame .content-title {
+  color: var(--secondarydark-grey900);
+  font-family: var(--body-text-large-bold-font-family);
+  font-size: var(--body-text-large-bold-font-size);
+  font-style: var(--body-text-large-bold-font-style);
+  font-weight: var(--body-text-large-bold-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-large-bold-letter-spacing);
+  line-height: var(--body-text-large-bold-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .tag {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 135px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .address {
+  height: 30px;
+  position: relative;
+  width: 217px;
+}
+
+.frame .content-title-wrapper {
+  height: 30px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.frame .text-2 {
+  height: 30px;
+  left: 94px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.frame .content-title-2 {
+  color: var(--secondarydark-grey900);
+  font-family: var(--body-text-large-bold-font-family);
+  font-size: var(--body-text-large-bold-font-size);
+  font-style: var(--body-text-large-bold-font-style);
+  font-weight: var(--body-text-large-bold-font-weight);
+  left: 49px;
+  letter-spacing: var(--body-text-large-bold-letter-spacing);
+  line-height: var(--body-text-large-bold-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .tag-2 {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .tag-3 {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 183px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .response {
+  height: 30px;
+  position: relative;
+  width: 202px;
+}
+
+.frame .tag-4 {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .company {
+  height: 30px;
+  position: relative;
+  width: 197px;
+}
+
+.frame .tag-5 {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .serial-number {
+  height: 30px;
+  position: relative;
+  width: 185px;
+}
+
+.frame .tag-6 {
+  color: var(--secondarygrey-600);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 115px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.frame .coutdown {
+  height: 24px;
+  left: 602px;
+  position: absolute;
+  top: 215px;
+  width: 290px;
+}
+
+.frame .text-wrapper-5 {
+  color: var(--primarypurple-blue500-primary);
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.28px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-6 {
+  color: #4318ff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 268px;
+  letter-spacing: -0.28px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .element {
+  color: #4318ff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 216px;
+  letter-spacing: -0.28px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .status-instance {
+  left: 945px !important;
+  position: absolute !important;
+  top: 209px !important;
+}

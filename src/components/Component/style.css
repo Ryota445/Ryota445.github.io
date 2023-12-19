@@ -1,0 +1,105 @@
+.component {
+  height: 190px;
+  position: relative;
+  width: 168px;
+}
+
+.component .menu-inventory {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 170px;
+}
+
+.component .icon-instance-node {
+  height: 20px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 23px !important;
+}
+
+.component .text-wrapper {
+  color: #a3aed0;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: -0.32px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.component .menu-notuse {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 140px;
+}
+
+.component .div {
+  color: #a3aed0;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: -0.32px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.component .menu-home {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.component .text-wrapper-2 {
+  color: #a3aed0;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: -0.32px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.component .menu-excel {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  width: 129px;
+}
+
+.component .text-wrapper-3 {
+  color: #a3aed0;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: -0.32px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.component .menu-mantenant {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 140px;
+}
